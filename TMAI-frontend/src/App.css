@@ -54,3 +54,16 @@
 .para {
   font-size: 1.4em;
 }
+
+.get-started {
+  font-size: 1.4em;
+  font-weight: 400;
+  background-color: #367793;
+  text-decoration: none;
+  border-radius: 30px;
+  padding: 0.6em 1.2em;
+  cursor: pointer;
+  color: #FFF0BA;
+  transition: border-color 0.25s;
+  width: 220px;
+}
